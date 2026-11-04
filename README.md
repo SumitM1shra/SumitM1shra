@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on technologies of DevOps and Cloud<br>👯 I’m looking to collaborate on DevOps projects<br>🤝 I’m looking for help with CI/CD integration<br>🌱 I’m currently learning security and monitoring<br>💬 Ask me about integration and migration<br>⚡ Fun fact I am an athlete as well
+🔭 I’m currently working on technologies of DevOps and Cloud<br>👯 I’m looking to collaborate on DevOps projects<br>🤝 I’m looking for help with CI/CD integration<br>🌱 I’m currently learning AI integration and security<br>💬 Ask me about integration and migration<br>⚡ Fun fact I am an athlete as well
 
 
 ## 🌐 Socials:
